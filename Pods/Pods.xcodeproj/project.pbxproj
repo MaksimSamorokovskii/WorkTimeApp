@@ -114,6 +114,7 @@
 		F75707D012131F00C447E69EAB448878 /* ReuseIdentifier+Integrations.swift in Sources */ = {isa = PBXBuildFile; fileRef = D73FD3622A803DD3CDC3943D919988DD /* ReuseIdentifier+Integrations.swift */; };
 		F91642D2321AEEB95C73D372A9F87971 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		F9CBA65F2A5F73EA00254761 /* WTAuthTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBA65E2A5F73EA00254761 /* WTAuthTextField.swift */; };
+		F9CBA6612A5F774F00254761 /* WTTitleSwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CBA6602A5F774F00254761 /* WTTitleSwitchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -302,6 +303,7 @@
 		F76EBFE7264189AE445B02117EFB1C63 /* SnapKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SnapKit-prefix.pch"; sourceTree = "<group>"; };
 		F841883711F42E8979673864A3A9BD3D /* SnapKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SnapKit.release.xcconfig; sourceTree = "<group>"; };
 		F9CBA65E2A5F73EA00254761 /* WTAuthTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WTAuthTextField.swift; sourceTree = "<group>"; };
+		F9CBA6602A5F774F00254761 /* WTTitleSwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WTTitleSwitchView.swift; sourceTree = "<group>"; };
 		F9FEC0E45B86ADBEE5598537EC0A3E10 /* ModuleReference.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ModuleReference.swift; path = Sources/RswiftResources/Shared/ModuleReference.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -370,6 +372,7 @@
 			children = (
 				F9CBA65D2A5F735800254761 /* Base */,
 				F9CBA65E2A5F73EA00254761 /* WTAuthTextField.swift */,
+				F9CBA6602A5F774F00254761 /* WTTitleSwitchView.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -961,6 +964,7 @@
 				3541C501F889CC238A04AAFB8B965F62 /* BaseViewController.swift in Sources */,
 				F9CBA65F2A5F73EA00254761 /* WTAuthTextField.swift in Sources */,
 				ADDB89049929E8E370E0F8FE923B98E5 /* Constants.swift in Sources */,
+				F9CBA6612A5F774F00254761 /* WTTitleSwitchView.swift in Sources */,
 				C7BA73563DCDC5818E3C550B4403D45F /* UIComponents-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
